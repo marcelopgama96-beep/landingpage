@@ -1,6 +1,6 @@
-# MZN TOOLS Landing Page
+# MZNCode Landing Page
 
-Static company landing page for MZN TOOLS.
+Static company landing page for MZNCode.
 
 ## Publish with GitHub Pages
 
